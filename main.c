@@ -21,7 +21,6 @@ int main (int argc, char *argv[]) {
         printf(">> ");
 
         opc = validarFloatRango(1,5);
-
         switch (opc)
         {
         case 1:
